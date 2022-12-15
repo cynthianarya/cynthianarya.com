@@ -10,12 +10,12 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'ecny27@gmail.com',
+  email: 'cynthianaranjoyagual@gmail.com',
   github: 'https://github.com/cynthianarya',
   twitter: 'https://twitter.com/cynthianarya',
-  facebook: 'https://facebook.com/cynthianarya',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com/cynthianarya/',
+  //facebook: 'https://facebook.com/cynthianarya',
+  //youtube: 'https://youtube.com',
+  linkedin: 'https://www.linkedin.com/in/cynthianarya/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
