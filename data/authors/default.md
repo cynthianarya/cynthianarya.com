@@ -9,4 +9,4 @@ linkedin: https://www.linkedin.com/cynthianarya
 github: https://github.com/cynthianarya
 ---
 
-Hola soy Cynthia Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hola soy Cynthia, iIngeniera en sistemas con muchos años de experiencia en el área de tecnología en empresas bancarias y retail. Empecé como software developer y gestión de proyectos y equipos. Me gustaría desempeñarme en Business Analyst / Scrum Master / Gestión de calidad en equipos ágiles.
