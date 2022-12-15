@@ -5,7 +5,7 @@ occupation: Tech Leader / Scrum Master / Systems Engineer
 Company: Instinto Digital
 email: cynthianaranjoyagual@gmail.com
 twitter: https://twitter.com/cynthianarya
-linkedin: https://www.linkedin.com/cynthianarya
+linkedin: https://www.linkedin.com/in/cynthianarya/
 github: https://github.com/cynthianarya
 ---
 
