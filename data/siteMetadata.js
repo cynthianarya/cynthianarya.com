@@ -7,7 +7,7 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://cynthianarya.com',
   siteRepo: 'https://github.com/cynthianarya/cynthianarya.com',
-  siteLogo: '/static/images/logo.png',
+  siteLogo: '/static/images/logo-mujer-de-negocios.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'cynthianaranjoyagual@gmail.com',
