@@ -1,7 +1,7 @@
 ---
 name: Cynthia Naranjo Yagual
 avatar: /static/images/avatar.png
-occupation: Systems Engineer / Software Developer
+occupation: Tech Leader / Scrum Master / Systems Engineer / Software Developer
 company: Instinto Digital
 email: cynthianaranjoyagual@gmail.com
 twitter: https://twitter.com/cynthianarya
