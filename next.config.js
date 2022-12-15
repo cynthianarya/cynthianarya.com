@@ -52,6 +52,8 @@ const securityHeaders = [
   },
 ]
 
+const withImages = require('next-images')
+module.exports = withImages()
 module.exports = withBundleAnalyzer({
   reactStrictMode: true,
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
