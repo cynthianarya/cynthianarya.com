@@ -3,7 +3,7 @@ name: Cynthia Naranjo Yagual
 avatar: /static/images/avatar.png
 occupation: Systems Engineer / Software Developer
 company: Instinto Digital
-email: ecny27@gmail.com
+email: cynthianaranjoyagual@gmail.com
 twitter: https://twitter.com/cynthianarya
 linkedin: https://www.linkedin.com/cynthianarya
 github: https://github.com/cynthianarya
