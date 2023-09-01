@@ -77,9 +77,9 @@ export default function ListLayoutWithTags({
 
   return (
     <>
-      <div>
+      <div className="custom-screen">
         <div className="pb-6 pt-6">
-          <h1 className="sm:hidden text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
+          <h1 className="sm:hidden text-3xl font-extrabold leading-9 tracking-tight text-primary-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             {title}
           </h1>
         </div>
@@ -135,7 +135,7 @@ export default function ListLayoutWithTags({
                       <div className="space-y-3">
                         <div>
                           <h2 className="text-2xl font-bold leading-8 tracking-tight">
-                            <Link href={`/${path}`} className="text-gray-900 dark:text-gray-100">
+                            <Link href={`/${path}`} className="text-primary-900 dark:text-gray-100">
                               {title}
                             </Link>
                           </h2>

@@ -1,23 +1,23 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
-  language: 'en-us',
-  theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  title: 'Cynthia Naranjo Yagual',
+  author: 'cynthianarya',
+  headerTitle: 'Cynthia Naranjo Yagual',
+  description: 'Mi blog personal',
+  language: 'es-ec',
+  theme: 'light', // system, dark or light
+  siteUrl: 'https://cynthianarya.com',
+  siteRepo: 'https://github.com/cynthianarya/cynthianarya.com',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
-  mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
-  locale: 'en-US',
+  mastodon: 'https://mastodon.social/@cynthianarya',
+  email: 'cynthianaranjoyagual@gmail.com',
+  github: 'https://github.com/cynthianarya',
+  twitter: 'https://twitter.com/cynthianarya',
+  facebook: '',
+  youtube: '',
+  linkedin: 'https://www.linkedin.com/in/cynthianarya/',
+  locale: 'es-EC',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
