@@ -41,7 +41,7 @@ const Navbar = () => {
             <div className="md:hidden">
               <button
                 aria-label="Open the menu"
-                className="text-gray-500 hover:text-gray-800"
+                className="text-gray-100 hover:text-accent-100"
                 onClick={handleNavMenu}
               >
                 {state ? (
